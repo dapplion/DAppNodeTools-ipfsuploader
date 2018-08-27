@@ -32,13 +32,13 @@ Please read [CONTRIBUTING.md](https://github.com/dappnode) for details on our co
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dappnode/DAppNodeTools-ipfsuploader/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/dappnodepackages/DAppNodeTools-ipfsuploader/tags). 
 
 ## Authors
 
 * **Eduardo Antuña Díez** - *Initial work* - [eduadiez](https://github.com/eduadiez)
 
-See also the list of [contributors](https://github.com/dappnode/DAppNodeTools-ipfsuploader/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/dappnodepackages/DAppNodeTools-ipfsuploader/contributors) who participated in this project.
 
 ## License
 
