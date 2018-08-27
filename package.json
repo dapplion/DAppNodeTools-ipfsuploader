@@ -1,0 +1,34 @@
+{
+  "name": "@dappnode/ipfsuploader",
+  "version": "1.0.0",
+  "private": false,
+  "description": "DAppNode IPFS uploader tool",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/eslint/bin/eslint.js ."
+  },
+  "bin": {
+    "ipfsuploader": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappnode/DAppNodeTools-ipfsuploader.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "DAppNode",
+    "IPFS"
+  ],
+  "author": "Eduardo Antuña",
+  "license": "GPL-3.0+",
+  "dependencies": {
+    "ipfs-api": "^22.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/dappnode/DAppNodeTools-ipfsuploader/issues"
+  },
+  "homepage": "https://github.com/dappnode/DAppNodeTools-ipfsuploader",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
